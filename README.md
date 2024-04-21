@@ -1,3 +1,3 @@
-#Coaching Institute Management
+# Coaching Institute Management
 
-##This is a coaching institute management Project made with c++. 
+## This is a coaching institute management Project made with c++. 
